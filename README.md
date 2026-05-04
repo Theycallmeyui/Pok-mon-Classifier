@@ -69,7 +69,17 @@ bash -> streamlit run app.py
 
 ##  실행 결과
 
+### demo GUI
+![demo](gui.png)
 
+### test image demo 1
+![demo1](demo1.png)
+
+### test image demo 2
+![demo2](demo2.png)
+
+### test image demo 3
+![demo3](demo3.png)
 
 
 ---
