@@ -1,0 +1,5 @@
+experiment,model,pretrained,freeze,accuracy,precision,recall
+resnet18_pretrained_freeze,resnet18,True,True,0.7706293706293706,0.8190626995553466,0.7668695008695009
+resnet18_pretrained_finetune,resnet18,True,False,0.8258741258741259,0.8677220007489357,0.822981166981167
+mobilenet_pretrained_freeze,mobilenet,True,True,0.7944055944055944,0.8131694993459698,0.7912892477892477
+resnet18_no_pretrained,resnet18,False,False,0.42657342657342656,0.49602712642188,0.42195450845450855
